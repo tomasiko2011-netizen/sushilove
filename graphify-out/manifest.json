@@ -1,0 +1,97 @@
+{
+  "/Users/guldana/sushilove/eslint.config.mjs": {
+    "mtime": 1773868242.0571182,
+    "ast_hash": "dfa1f5f6a7037bf39dc510f30b180002",
+    "semantic_hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "/Users/guldana/sushilove/next-env.d.ts": {
+    "mtime": 1773868242.0573883,
+    "ast_hash": "2a74d3909800ca5467fa83b0ab4a4890",
+    "semantic_hash": "2a74d3909800ca5467fa83b0ab4a4890"
+  },
+  "/Users/guldana/sushilove/next.config.ts": {
+    "mtime": 1773868242.0575445,
+    "ast_hash": "9b77af189a21a7a64e4bd7a426f64176",
+    "semantic_hash": "9b77af189a21a7a64e4bd7a426f64176"
+  },
+  "/Users/guldana/sushilove/package.json": {
+    "mtime": 1773868242.0600693,
+    "ast_hash": "1a7ca012aa7616ba7db6d9ac63656f9b",
+    "semantic_hash": "1a7ca012aa7616ba7db6d9ac63656f9b"
+  },
+  "/Users/guldana/sushilove/postcss.config.mjs": {
+    "mtime": 1773868242.0575435,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "/Users/guldana/sushilove/public/manifest.json": {
+    "mtime": 1773868438.057719,
+    "ast_hash": "85fed200b93eda9fafc136050be572dc",
+    "semantic_hash": "85fed200b93eda9fafc136050be572dc"
+  },
+  "/Users/guldana/sushilove/public/sw.js": {
+    "mtime": 1773868447.2441618,
+    "ast_hash": "469e6d97294c0bc8e7b1d736fb1c564b",
+    "semantic_hash": "469e6d97294c0bc8e7b1d736fb1c564b"
+  },
+  "/Users/guldana/sushilove/src/app/layout.tsx": {
+    "mtime": 1773868341.0918918,
+    "ast_hash": "e567853899179bea7a1dd7d8c74f3b87",
+    "semantic_hash": "e567853899179bea7a1dd7d8c74f3b87"
+  },
+  "/Users/guldana/sushilove/src/app/page.tsx": {
+    "mtime": 1773868427.7433243,
+    "ast_hash": "0e4e43f28fb35723d28c0178a2940f4e",
+    "semantic_hash": "0e4e43f28fb35723d28c0178a2940f4e"
+  },
+  "/Users/guldana/sushilove/tsconfig.json": {
+    "mtime": 1773868242.059204,
+    "ast_hash": "ee17fd1c97c735e9f3564e3f5251f125",
+    "semantic_hash": "ee17fd1c97c735e9f3564e3f5251f125"
+  },
+  "/Users/guldana/sushilove/.github/workflows/ci.yml": {
+    "mtime": 1774931809.735539,
+    "ast_hash": "0b04951114abfacb26e511bfc4cfbf4f",
+    "semantic_hash": "0b04951114abfacb26e511bfc4cfbf4f"
+  },
+  "/Users/guldana/sushilove/README.md": {
+    "mtime": 1773868242.0572743,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": "f15aaa42d5d299d091b1171097ea56ad"
+  },
+  "/Users/guldana/sushilove/public/file.svg": {
+    "mtime": 1773868242.057938,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "/Users/guldana/sushilove/public/globe.svg": {
+    "mtime": 1773868242.0582669,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "/Users/guldana/sushilove/public/icon-192.png": {
+    "mtime": 1773868459.254868,
+    "ast_hash": "c7aef6866397191b3f0267f454f514a5",
+    "semantic_hash": "c7aef6866397191b3f0267f454f514a5"
+  },
+  "/Users/guldana/sushilove/public/icon-512.png": {
+    "mtime": 1773868459.2575865,
+    "ast_hash": "63a93e685a5ad7f1fceff5d6708910f0",
+    "semantic_hash": "63a93e685a5ad7f1fceff5d6708910f0"
+  },
+  "/Users/guldana/sushilove/public/next.svg": {
+    "mtime": 1773868242.0581882,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "/Users/guldana/sushilove/public/vercel.svg": {
+    "mtime": 1773868242.0580795,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "/Users/guldana/sushilove/public/window.svg": {
+    "mtime": 1773868242.058089,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": "a2760511c65806022ad20adf74370ff3"
+  }
+}
